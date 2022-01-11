@@ -42,7 +42,6 @@ html {
 kbd {
   display: block;
   font-size: 4rem;
-  cursor: pointer;
 }
 
 .sound {
